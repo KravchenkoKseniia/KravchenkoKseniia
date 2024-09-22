@@ -1,4 +1,7 @@
-# 👋 Hi, I’m Kseniia Kravchenko
+# 🎀 Hi, I’m Kseniia Kravchenko
+
+I am a second-year student majoring in Software Engineering and Business Analysis at the Kyiv School of Economics. 
+
 
 
 <p align="center">
