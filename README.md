@@ -13,7 +13,7 @@ I am a second-year student majoring in Software Engineering and Business Analysi
 </p>
 
 <p align="center">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=KravchenkoKseniia&show_icons=true&theme=light"/>
 </p>
 
 <p align="center">
