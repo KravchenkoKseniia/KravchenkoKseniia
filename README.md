@@ -17,8 +17,6 @@ I am a second-year student majoring in Software Engineering and Business Analysi
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KravchenkoKseniia&theme=github"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KravchenkoKseniia&theme=github"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KravchenkoKseniia&theme=github"/>
+
 </p>
 
