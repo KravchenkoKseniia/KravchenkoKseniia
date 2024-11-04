@@ -12,9 +12,6 @@ I am a second-year student majoring in Software Engineering and Business Analysi
   <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react" alt="React"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KravchenkoKseniia&show_icons=true&theme=light"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KravchenkoKseniia&theme=github"/>
