@@ -14,6 +14,7 @@ I am a second-year student majoring in Software Engineering and Business Analysi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KravchenkoKseniia&show_icons=true&theme=light"/>
+  <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=kksssuusha"/>
 </p>
 
 <p align="center">
