@@ -3,23 +3,9 @@
 I am a second-year student majoring in Software Engineering and Business Analysis at the Kyiv School of Economics. 
 
 
+[![](https://raw.githubusercontent.com/KravchenkoKseniia/KravchenkoKseniia/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KravchenkoKseniia/KravchenkoKseniia/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KravchenkoKseniia/KravchenkoKseniia/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KravchenkoKseniia/KravchenkoKseniia/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KravchenkoKseniia/KravchenkoKseniia/main/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react" alt="React"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KravchenkoKseniia&show_icons=true&theme=light"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KravchenkoKseniia&theme=github"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KravchenkoKseniia&theme=github"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KravchenkoKseniia&theme=github"/>
-</p>
 
 
