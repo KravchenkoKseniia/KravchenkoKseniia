@@ -16,5 +16,5 @@ I am a second-year student majoring in Software Engineering and Business Analysi
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KravchenkoKseniia&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
 
-
+---
 
