@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-👩‍🎓 I am a third-year student majoring in Software Engineering and Business Analysis at the Kyiv School of Economics<br>
+👩‍🎓 I am a 4-year student majoring in Software Engineering and Business Analysis at the Kyiv School of Economics<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kksssuusha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kseniia-kravchenko-89a055289) 
